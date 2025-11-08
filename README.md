@@ -61,8 +61,6 @@ The goal of this project was to explore the dataset, handle missing and duplicat
 📍 Linkedin : www.linkedin.com/in/shoaib99 
 
 ## 🧩 How to Run
-1. Clone this repository  
-2. Install dependencies  
-3. Open `superstore-eda.ipynb` in Jupyter Notebook  
-4. Run all cells to reproduce the analysis
+
+You can directly open the Jupyter Notebook (superstore-eda.ipynb) file by clicking it to view the complete analysis and visualizations.
 
